@@ -1,3 +1,1 @@
-a = [1, 2, 3, 4, 5]
-a[2] = 10
-print(a)
+print('\n \n \n \n Hello Python in VScode \n \n \n \n')
